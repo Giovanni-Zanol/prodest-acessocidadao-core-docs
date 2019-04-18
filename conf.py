@@ -1,5 +1,6 @@
 import recommonmark
-from recommonmark.transform import AutoStructify
+#from recommonmark.transform import AutoStructify
+#from recommonmark.parser import CommonMarkParser
 
 # Configuration file for the Sphinx documentation builder.
 #
@@ -50,6 +51,7 @@ language = 'pt-br'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+source_encoding = 'iso-8859-15'
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -63,10 +65,16 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-master_doc = 'README'
+master_doc = 'index'
 
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-            'auto_toc_tree_section': 'Contents',
-            }, True)
-    app.add_transform(AutoStructify)
+#source_parsers = {
+#   '.md': 'recommonmark.parser.CommonMarkParser',
+#}
+
+#source_suffix = ['.rst', '.md']
+
+#def setup(app):
+#    app.add_config_value('recommonmark_config', {
+#            'auto_toc_tree_section': 'Contents',
+#            }, True)
+#    app.add_transform(AutoStructify)
