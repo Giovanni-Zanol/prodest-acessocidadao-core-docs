@@ -6,13 +6,13 @@
 Seja bem vindo à documentação do Acesso Cidadão!
 ================================================
 
-:doc:`README`
+:doc:`index`
 
 .. toctree::
     :maxdepth: 1
     :hidden:
     
-    README
+    index
 
 .. toctree::
     :maxdepth: 3
