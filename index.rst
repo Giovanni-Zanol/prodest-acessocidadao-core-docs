@@ -3,27 +3,31 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Acesso Cidadão's documentation!
-==========================================
+Seja bem vindo à documentação do Acesso Cidadão!
+================================================
+
+:doc:`README`
+
+.. toctree::
+    :maxdepth: 1
+    :hidden:
+    
+    README
 
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Contents:
+    :caption: Autenticação:
 
-    doc1
-    doc2
+    Autenticacao/Introducao
+    Autenticacao/ImplicitFlow    
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Api:
+
     Api/Introducao
     Api/ClientCredentials
-    Autenticacao/Introducao
-    Autenticacao/ImplicitFlow
-    
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
