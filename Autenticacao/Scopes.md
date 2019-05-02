@@ -11,8 +11,6 @@
 * nome
 * permissoes
 * roles
-* ScopeResource
-* selecionar_orgao
 * telefone
 
 ## Padrão do Protocolo
