@@ -1,4 +1,4 @@
-Seja bem vindo à documentação do Acesso Cidadão!
+Seja bem vindo Ã  documentaÃ§Ã£o do Acesso CidadÃ£o!
 ================================================
 
 :doc:`index`
@@ -12,10 +12,11 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Autenticação:
+    :caption: AutenticaÃ§Ã£o:
 
     Autenticacao/Introducao
-    Autenticacao/ImplicitFlow    
+    Autenticacao/ImplicitFlow
+    Autenticacao/Scopes
 
 .. toctree::
     :maxdepth: 3
