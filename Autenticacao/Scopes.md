@@ -2,11 +2,11 @@
 
 ## Específicos do Acesso Cidadão
 
-* agentepublico
+* agentepublico (público)
 * cpf
 * dataNascimento
 * documentos
-* email
+* email (público)
 * filiacao
 * nome
 * permissoes
@@ -16,6 +16,9 @@
 ## Padrão do Protocolo
 
 * offline_access
-* openid
-* profile
+* openid (público)
+* profile (público)
 
+## Scopes públicos e scopes privados
+
+Os scopes públicos estão disponíveis para qualquer sistema. Os outros scopes só serão disponibilizados após solicitação com justificativa para a equipe responsável.
