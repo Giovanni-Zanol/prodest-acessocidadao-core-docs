@@ -1,0 +1,1 @@
+Scopes de usuário disponíveis no Acesso Cidadão
