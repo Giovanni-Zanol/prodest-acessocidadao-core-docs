@@ -1,24 +1,24 @@
-# Scopes de usuÃ¡rio disponÃ­veis no Acesso CidadÃ£o
+# Scopes de usuário disponíveis no Acesso Cidadão
 
-## EspecÃ­ficos do Acesso CidadÃ£o
+## Específicos do Acesso Cidadão
 
-* agentepublico (pÃºblico)
+* agentepublico (público)
 * cpf
 * dataNascimento
 * documentos
-* email (pÃºblico)
+* email (público)
 * filiacao
 * nome
 * permissoes
 * roles
 * telefone
 
-## PadrÃ£o do Protocolo
+## Padrão do Protocolo
 
 * offline_access
-* openid (pÃºblico)
-* profile (pÃºblico)
+* openid (público)
+* profile (público)
 
-## Scopes pÃºblicos e scopes privados
+## Scopes públicos e scopes privados
 
-Os scopes pÃºblicos estÃ£o disponÃ­veis para qualquer sistema. Os outros scopes sÃ³ serÃ£o disponibilizados apÃ³s solicitaÃ§Ã£o com justificativa para a equipe responsÃ¡vel.
+Os scopes públicos estão disponíveis para qualquer sistema. Os outros scopes só serão disponibilizados após solicitação com justificativa para a equipe responsável.
