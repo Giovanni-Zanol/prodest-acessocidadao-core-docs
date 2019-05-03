@@ -1,3 +1,0 @@
-﻿#Teste com acentos
-
-áàéçãoooo
