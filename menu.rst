@@ -1,5 +1,5 @@
 Seja bem vindo à documentação do Acesso Cidadão!
-================================================
+==========================================================
 
 :doc:`index`
 
@@ -12,18 +12,33 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Autenticação:
+    :caption: Cidadão
 
-    Autenticacao/Introducao
-    Autenticacao/ImplicitFlow
-    Autenticacao/Scopes
+    Cidadao/Cidadao
+    Cidadao/DadosPessoais
+    Cidadao/Verificacao
 
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Api:
+    :caption: Servidores
 
-    Api/Introducao
-    Api/ClientCredentials
+    Servidores/Servidor
+    Servidores/Papeis
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Sistema
+
+    Sistema/Sistema
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Carga
+
+    Carga/SIARHES
+
 
 

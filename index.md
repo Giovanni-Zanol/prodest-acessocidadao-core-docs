@@ -1,23 +1,11 @@
-﻿# Introdução 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introdução 
 
-**teste** de novo de novo
+``` important:: Essa documentação é para usuários do Acesso Cidadão, caso queira acessar a documentação para desenvolvedores que estão trabalhando com a integração junto ao Acesso Cidadão, ela está disponível em https://docs.acessocidadao.dev.es.gov.br.
+```
 
-## Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+A ideia inicial do Acesso Cidadão (AC) foi criar um sistema que centralizasse as informações do cidadão e do servidor público em uma base de dados única, facilitando assim a validação da consistência dos dados e provendo autenticação (quem é) e autorização (o que pode fazer) de uma forma simples e segura.
 
-## Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Ao fornecer uma plataforma abrangente para comprovação de informações e documentos pessoais, o sistema Acesso Cidadão disponibiliza a qualquer cidadão um local único e centralizado com as informações necessárias para o consumo dos serviços online prestados pelo Estado do Espírito Santo. A medida que mais informações são agregadas no perfil de cada pessoa o grau de confiabilidade da conta do cidadão aumenta, o que permite que sistemas e serviços do governo que requerem maior nível de segurança sejam acessados. Garantimos assim maneiras simples e confiáveis de acessar informações públicas.
 
-## Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Resumindo, o Acesso Cidadão implementa uma solução abrangente que proporciona autenticação e autorização de usuários interligados a um processo de login único. O sistema está sendo utilizado para autorizar o acesso a uma grande gama de serviços online oferecidos pelo Estado do Espiríto Santo: sites, aplicações web e mobile e até mesmo web services e “APIs” de governo digital.
 
