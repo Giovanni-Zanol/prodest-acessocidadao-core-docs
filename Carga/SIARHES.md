@@ -85,6 +85,11 @@ Identificamos a unidade responsável por uma organização, só que essa unidade
 
 Esse caso acontece quando não conseguimos determinar o gestor de uma unidade e mesmo subindo de forma recursiva até a raiz da organização essa também está sem gestor. Na prática esse é o único caso em que não conseguimos determinar nenhuma gestor para uma unidade.
 
+###### PapelApagado
+
+Essa situação acontece quando um papel e definido como gestor de uma unidade e posteriormente precisa ser apagado. Essa é um situação temporária que é corrigida na próxima carga de gestores.
+
+
 ### Resultado da última carga
 
 Toda vez que a carga é executada um relatório com os dados da carga é gerado e salvo no arquivo do link abaixo. O arquivo disponibilizado abaixo sempre vai ter a última versão do que aconteceu na carga de gestores.
