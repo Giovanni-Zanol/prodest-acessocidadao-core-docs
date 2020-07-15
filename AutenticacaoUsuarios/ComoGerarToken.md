@@ -12,10 +12,13 @@ A utilização da autenticação do Acesso Cidadão depende dos seguintes passos
    |-----------------|----------------------------------------------------------------------| 
    | **response_type**| Especifica para o tipo de autenticação sendo utilizado. Neste caso será **code id_token**| 
    | **client_id**      | Chave de acesso, que identifica o app cliente fornecido pelo Acesso Cidadão para cada app cadastrada| 
-   | **scope**          | Especifica os recursos que o app cliente quer obter. Um ou mais escopos inseridos para a app cadastrada. Informação mínima a ser preenchida por padrão: **openid profile**. Mais informações [aqui](./Scopes.md)| 
+   | **scope**          | Especifica os recursos que o app cliente quer obter. Um ou mais escopos inseridos para a app cadastrada. Informação mínima a ser preenchida por padrão: **openid profile**. Mais informações [aqui](./Scopes)| 
    | **redirect_uri**  |  URI de retorno cadastrada para a app cliente no formato *URL Encode*. Este parâmetro não pode conter caracteres especiais conforme consta na especificação 'auth 2.0 Redirection Endpoint'| 
    | **nonce**          | Sequência de caracteres usado para associar uma sessão do serviço consumidor a um *Token* de ID e para atenuar os ataques de repetição. Pode ser um valor aleatório, mas que não seja de fácil dedução. **Item obrigatório**.| 
    | **state**|           Valor usado para manter o estado entre a solicitação e o retorno de chamada. Item não obrigatório. | 
+
+``` important:: Atentar que os scopes **openid profile** são sempre obrigatórios nesse modo de autorização!
+```
 
 ``` code-block::
     :caption: Exemplo de **URL da requisição**
