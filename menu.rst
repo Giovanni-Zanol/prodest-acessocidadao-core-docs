@@ -29,9 +29,9 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Sistema
+    :caption: Manutenções
 
-    Sistema/Sistema
+    Manutencoes/Manutencoes
 
 .. toctree::
     :maxdepth: 3
