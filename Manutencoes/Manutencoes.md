@@ -7,7 +7,7 @@ Com o cuidado de causar o mínimo transtorno possível, as manutenções que pod
 Pedimos desculpas pelos possíveis transtornos e agradecemos a compreensão de todos!
 
 #### 31/01/2021
-Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 31/01/2020, domingo, a partir das 21:00 hs com término previsto para 01:00hs do dia 01/02/2021. Podendo ser finalizada antes do esperado.
+Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 31/01/2020, domingo, a partir das 21:00 hs com término previsto para 01:00hs do dia 01/02/2021, segunda-feira. Podendo ser finalizada antes do esperado.
 
 Durante o período de MANUTENÇÃO haverá indisponibilidade de TODOS os serviços relacionados ao login único.
 
