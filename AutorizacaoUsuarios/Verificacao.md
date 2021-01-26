@@ -1,3 +1,0 @@
-# Verificação de Conta
-
-Em construção...
