@@ -86,6 +86,12 @@ master_doc = 'menu'
 #            }, True)
 #    app.add_transform(AutoStructify)
 
+html_context = {
+  'display_github': True,
+  'github_user': 'prodest',
+  'github_repo': 'prodest-acessocidadao-core-docs',
+  'github_version': 'master/',
+}
 
 # app setup hook
 def setup(app):

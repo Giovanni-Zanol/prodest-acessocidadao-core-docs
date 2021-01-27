@@ -1,5 +1,8 @@
 @ECHO OFF
 
+pip install recommonmark
+pip install sphinx_markdown_tables
+
 pushd %~dp0
 
 REM Command file for Sphinx documentation
