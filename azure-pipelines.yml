@@ -1,0 +1,27 @@
+trigger:
+- master
+
+pool:
+  name: 'Default'
+
+jobs:
+- job: Build
+  steps:
+  - script: echo Hello, world1!
+    displayName: 'Run a one-line script'
+  - task: CmdLine@2
+    inputs:
+      script: |
+        echo Write your commands here
+        
+        make html
+        
+        echo Hello world
+  - task: PublishBuildArtifacts@1
+    displayName: Publish Artifact
+    inputs:
+      PathtoPublish: '$(Build.SourcesDirectory)\_build\html'
+      ArtifactName: 'drop'
+      publishLocation: 'Container'
+  - script: echo Hello, world2!
+    displayName: 'Run a one-line script'
