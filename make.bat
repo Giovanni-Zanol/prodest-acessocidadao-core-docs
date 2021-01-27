@@ -1,5 +1,6 @@
 @ECHO OFF
 
+pip install -U sphinx
 pip install recommonmark
 pip install sphinx_markdown_tables
 
