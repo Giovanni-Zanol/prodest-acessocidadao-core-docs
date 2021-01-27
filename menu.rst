@@ -12,26 +12,11 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Cidadão
+    :caption: Informações
 
-    Cidadao/Cidadao
-    Cidadao/DadosPessoais
-    Cidadao/Verificacao
-
-.. toctree::
-    :maxdepth: 3
-    :hidden:
-    :caption: Servidores
-
-    Servidores/Servidor
-    Servidores/Papeis
-
-.. toctree::
-    :maxdepth: 3
-    :hidden:
-    :caption: Manutenções
-
-    Manutencoes/Manutencoes
+    Informacoes/Termos
+    Informacoes/PoliticaPrivacidade
+    Informacoes/Manutencoes
 
 .. toctree::
     :maxdepth: 3
