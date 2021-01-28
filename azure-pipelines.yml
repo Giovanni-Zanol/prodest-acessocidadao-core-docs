@@ -17,7 +17,7 @@ jobs:
         PathtoPublish: '$(Build.SourcesDirectory)\_build\html'
         ArtifactName: 'drop'
         publishLocation: 'Container'
-  - deployment: Deploy
+  - deployment: DeployProd
     displayName: Deploy de Docs
     environment: 
       name: 'IISProducao'
