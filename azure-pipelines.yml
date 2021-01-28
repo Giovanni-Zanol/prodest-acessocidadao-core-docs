@@ -20,7 +20,7 @@ jobs:
   - deployment: Deploy
     displayName: Deploy de Docs
     environment: 
-      name: 'IIS Producao'
+      name: 'IISProducao'
       resourceType: VirtualMachine
     variables: 
       - name: 'system.debug'
