@@ -11,6 +11,8 @@ Informamos que será realizada manutenção corretiva na parte pública do Acess
 
 Durante o período de MANUTENÇÃO haverá indisponibilidade de TODOS os serviços relacionados ao login único.
 
+**Atualização:** A manutenção começou às 21:00, com todos os procedimentos tendo finalizado às 22:05.
+
 #### 02/01/2020
 Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 02/01/2020, quinta-feira, a partir das 18:00 hs com término previsto para às 20:00 hs do mesmo dia. Podendo ser finalizada antes do esperado.
 
