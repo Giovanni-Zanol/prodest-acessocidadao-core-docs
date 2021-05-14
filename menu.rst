@@ -17,6 +17,14 @@ Seja bem vindo à documentação do Acesso Cidadão!
     Informacoes/Termos
     Informacoes/PoliticaPrivacidade
     Informacoes/Manutencoes
+    Informacoes/Sobre
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Dúvidas
+
+    Duvidas/PerguntasFrequentes
 
 .. toctree::
     :maxdepth: 3
