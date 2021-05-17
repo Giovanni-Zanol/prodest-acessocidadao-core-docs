@@ -1,7 +1,7 @@
 # Como recuperar a senha
 
 <div class="video">
-	<iframe width="640" height="360" src="https://vimeo.com/275083014" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen>
+	<iframe width="640" height="360" src="https://player.vimeo.com/video/275083014" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen>
 	</iframe>
 </div>
 
