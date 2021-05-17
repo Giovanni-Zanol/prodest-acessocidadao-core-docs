@@ -68,4 +68,6 @@ Nessa página você terá acesso ao número da sua solicitação (em destaque na
 Esse número deve ser anotado pois será usado daqui para frente para acompanhar o andamento do seu pedido.  
 !["E-mail com link"](../_images/RecuperarConta11.png)  
 
-**Observação:** Você também vai receber esse número por e-mail.
+**Observação:** Você também vai receber esse número por e-mail.  
+
+[CLIQUE AQUI](../_arquivos/RecuperarConta.pdf) Para obter o arquivo com essas instruções

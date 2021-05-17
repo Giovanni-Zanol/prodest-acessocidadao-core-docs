@@ -35,3 +35,5 @@ Continue digitando, assim que atingir o tamanho mínimo ela deixará de ser exib
 Já a segunda mensagem, destacada em verde, é exibida enquanto você não digitar no campo "confirme a nova senha", a mesma senha que colocou no campo "nova senha". 
 Isso é para garantir que você não cometeu nenhum erro na hora de digitar a nova senha.  
 !["Mensagem na hora de trocar a senha."](../_images/Recuperar8.png)  
+
+[CLIQUE AQUI](../_arquivos/RecuperarSenha.pdf) Para obter o arquivo com essas instruções
