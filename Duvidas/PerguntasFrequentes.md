@@ -1,23 +1,26 @@
 # Perguntas Frequentes
-###### 1. Como criar uma conta no Acesso Cidadão?
+
+### Acesso
+
+###### Como criar uma conta no Acesso Cidadão?
 [Clique aqui](https://acessocidadao.es.gov.br/Informacoes/CriarConta) e siga as instruções passo a passo.
 
-###### 2. Como faço para recuperar minha senha do Acesso Cidadão?
+###### Como faço para recuperar minha senha do Acesso Cidadão?
 [Clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoSenha) e siga as instruções passo a passo.
 
-###### 3. Vocês podem alterar a senha para mim?
-**Não!** É impossível para os administradores do sistema reiniciarem ou alteraram as senhas dos usuários manualmente. 
+###### Vocês podem alterar a senha para mim?
+**<span style="color:red">Não!</span>** É impossível para os administradores do sistema reiniciarem ou alteraram as senhas dos usuários manualmente. 
 As senhas só podem ser alteradas ou recuperadas pelo próprio cidadão. 
 Por isso é importante que você mantenha seus dados cadastrais sempre atualizados, principalmente o e-mail.
 
-###### 4. Como recupear o acesso à minha conta quando não tenho mais acesso ao e-mail cadastrado e não vinculei um número de celular, nem uma rede social, à minha conta?
+###### Como recupear o acesso à minha conta quando não tenho mais acesso ao e-mail cadastrado e não vinculei um número de celular, nem uma rede social, à minha conta?
 [Clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoConta) e siga as instruções passo a passo.
 
-###### 5. Posso apagar minha conta?
+###### Posso apagar minha conta?
 Não é possível excluir um usuário do sistema. 
 Caso você queira excluir uma conta porque não consegue criar uma nova conta com o seu CPF ou acredite que alguém usou seu CPF, veja a próxima pergunta.
 
-###### 6. Alguém usou meu CPF e agora?
+###### Alguém usou meu CPF e agora?
 Você tentou criar uma nova conta e foi informado que "Seu CPF já está cadastrado!"? Calma. 
 Constatamos que na maioria das vezes que somos apresentados com esse problema o que aconteceu foi que a própria pessoa fez um cadastro a muito tempo e não se lembra mais. 
 Também é muito comum as pessoas fazerem um cadastro para algum sistema do estado sem saber que era um cadastro do Acesso Cidadão. 
@@ -35,7 +38,7 @@ O sistema também garante que tudo o que for feito nas contas é auditado e grav
 O Acesso Cidadão garante que informações pessoais ou acessos restritos só possam ser executados após vários níveis de validação, como, por exemplo, 
 apresentação de documentos digitalizados ou presença física.
 
-###### 7. Como alterar o meu CPF?
+###### Como alterar o meu CPF?
 As contas do Acesso Cidadão são baseadas em CPF para garantir que são únicas. 
 Isso quer dizer que o importante para o sistema é o CPF (e não o e-mail). Por isso o CPF nunca pode ser alterado.
 
@@ -48,10 +51,10 @@ O identificador principal é o CPF, logo se todas as informações como nome, e-
 Assim como frisado em todas as etapas de cadastro, nunca use um CPF diferente do seu para se cadastrar. 
 Caso, por qualquer motivo, você tenha feito isso o modo correto de corrigir é alterar os dados da conta para o do titular do CPF e fazer uma nova conta com o seu CPF.
 
-###### 8. "Emprestei" meu CPF para alguém, o que fazer?
+###### "Emprestei" meu CPF para alguém, o que fazer?
 Leia a pergunta anterior.
 
-###### 9. "Emprestei" meu e-mail para alguém, o que fazer?
+###### "Emprestei" meu e-mail para alguém, o que fazer?
 O e-mail é único no sistema, ou seja, duas pessoas diferentes não podem usar o mesmo e-mail. 
 Se usou o seu e-mail na conta de outra pessoa (outro CPF), agora esse e-mail só pode ser utilizado novamente caso seja removido da primeira conta.
 
@@ -63,36 +66,36 @@ Você pode tentar recuperar a senha usando o cpf, em vez do e-mail, para ver qua
 
 Se não tiver mais acesso ao e-mail utilizado: [clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoConta) e siga as instruções.
 
-###### 10. Como trocar o e-mail cadastrado na minha conta?
+###### Como trocar o e-mail cadastrado na minha conta?
 Leia a pergunta anterior.
 
-###### 11. Como trocar o e-mail cadastrado na minha conta?
+###### Como trocar o e-mail cadastrado na minha conta?
 Você deverá entrar no Acesso Cidadão com seu CPF e senha e após logado entrar no item "Editar Email" como na imagem abaixo:
-!["Editar Email"](https://acessocidadao.es.gov.br/Content/Images/ajuda/TrocarEmail1.png)  
+!["Editar Email"](../_images/TrocarEmail1.png)  
 Em seguida  você pode conferir o seu **email atual** e nos campos seguintes pode digitar o seu novo e-mail e depois confirmar:
-!["Trocar Email"](https://acessocidadao.es.gov.br/Content/Images/ajuda/TrocarEmail2.png)  
+!["Trocar Email"](../_images/TrocarEmail2.png)  
 Conforme as instruções você vai receber um e-mail para confirmar a troca na caixa de entrada do novo e-mail. Clique no link enviado e a troca vai ser completada.  
-**Importante!!! Ao realizar esse procedimento você está fazendo um pedido para troca de e-mail. 
-O e-mail só vai ser alterado efetivamente depois que você clicar no link que foi enviado para seu novo e-mail.**  
+<span style="color:red">Importante!!! Ao realizar esse procedimento você está fazendo um pedido para troca de e-mail. 
+O e-mail só vai ser alterado efetivamente depois que você clicar no link que foi enviado para seu novo e-mail.</span>  
 
-# Login Externo  
-###### 12. Estou tentando entrar com a minha conta de rede social, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
+### Login Externo  
+###### Estou tentando entrar com a minha conta de rede social, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
 Nesse caso sua conta de Facebook ou Google não está vinculada à sua conta. Para vincular uma rede social à sua conta, siga as intruções da próxima pergunta.
 
-###### 13. Como vincular uma rede social à minha conta?
+###### Como vincular uma rede social à minha conta?
 Você deverá entrar no Acesso Cidadão com seu CPF e senha e após logado entrar no item "Editar Perfil" como na imagem abaixo:
-!["Editar Perfil"](https://acessocidadao.es.gov.br/Content/Images/ajuda/Pergunta1.png)  
+!["Editar Perfil"](../_images/Pergunta1.png)  
 Em seguida você deve clicar na rede social que deseja vincular a sua conta e seguir as instruções na tela:
-!["Vincular rede social"](https://acessocidadao.es.gov.br/Content/Images/ajuda/Pergunta2.png)  
+!["Vincular rede social"](../_images/Pergunta2.png)  
 
-###### 14. Estou tentando entrar com meu celular, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
+###### Estou tentando entrar com meu celular, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
 Nesse caso seu celular não está vinculada à sua conta. No momento não é mais possível vincular um celular a sua conta para usar como método de login.
 
-###### 15. Como vincular uma celular à minha conta?
+###### Como vincular uma celular à minha conta?
 No momento não é mais possível vincular um celular a sua conta para usar como método de login.  
 
-# Concursos
-###### 16. Tenha uma dúvida específica sobre um concurso.
+### Concursos
+###### Tenha uma dúvida específica sobre um concurso.
 O Acesso Cidadão é o responsável por gerenciar a sua conta virtual no estado do Espírito Santo e garantir que você vai conseguir acessar todos os sistemas vinculados.
 A equipe do Acesso Cidadão não tem contato direto com as bancas responsáveis pelos Processos Seletivos. Também não temos contato com as equipes responsáveis pelos sistemas de concursos.  
 Todo sistema costuma disponibilizar um canal de atendimento (telefone ou e-mail) no próprio site do processo seletivo. 
@@ -102,40 +105,40 @@ Outra sugestão é encaminhar suas colocações diretamente ao fale conosco no s
 Caso você queira, você também pode usar esse canal de ouvidoria para o estado inteiro: <http://www.ouvidoria.es.gov.br/>  
 E você sempre pode pedir um posicionamento oficial do estado através do site da SECOM: <http://www.secom.es.gov.br/fale-conosco>  
 
-# Verificar CPF
-###### 17. Por que estou vendo uma mensagem que meu CPF ainda não foi validado?
+### Verificar CPF
+###### Por que estou vendo uma mensagem que meu CPF ainda não foi validado?
 Essa é uma etapa opcional que nos permite ter mais segurança sobre o titular de uma determinada conta.  
 A validação do seu CPF apesar de opcional é altamente recomendada e caso informações divergentes sejam detectadas o seu cadastro pode ser bloqueado.
 
-###### 18. Meu nome mudou recentemente, como valido meu CPF?
+###### Meu nome mudou recentemente, como valido meu CPF?
 Caso tenha ocorrido mudança de nome recentemente (por motivo de casamento, divórcio, etc), pode ser necessário atualizar seus dados junto à Receita Federal. 
 Para garantir que os seus dados estão atualizados na base da receita acesse [este link](https://www.receita.fazenda.gov.br/Aplicacoes/SSL/ATCTA/CPF/ConsultaSituacao/ConsultaPublica.asp). 
 Caso seja necessário atualizar algum dado, siga [estas instruções](http://idg.receita.fazenda.gov.br/orientacao/tributaria/cadastros/cadastro-de-pessoas-fisicas-cpf/atos-cadastrais/alteracao-de-dados-cadastrais-no-cpf).
 
-# Erros Comuns
-###### 19. O login ou a senha que você digitou estão incorretos.
+### Erros Comuns
+###### O login ou a senha que você digitou estão incorretos.
 Confira seu login, caso esteja correto, provavelmente a sua senha está incorreta. 
 O login pode ser tanto o seu CPF, quanto o e-mail que usou para se cadastrar no sistema. 
 Você poderá recuperar sua senha [clicando aqui](https://acessocidadao.es.gov.br/Conta/SolicitarReinicioSenha).
 
-###### 20. Seu CPF já está cadastrado!
+###### Seu CPF já está cadastrado!
 O seu CPF já está cadastrado no sistema e você não pode fazer um novo cadastro com o mesmo CPF. 
 Você pode recuperar sua senha [clicando aqui](https://acessocidadao.es.gov.br/Conta/SolicitarReinicioSenha). 
 Caso não tenha mais acesso ao e-mail que foi usado no cadastro, siga as instruções da [pergunta 4](https://acessocidadao.es.gov.br/Ajuda/PerguntasFrequentes#RecuperarAcessoConta).
 
-###### 21. Senhas curtas são fáceis de advinhar. A senha precisa ter pelo menos 8 caracteres.
+###### Senhas curtas são fáceis de advinhar. A senha precisa ter pelo menos 8 caracteres.
 Você deverá usar uma senha com no mínimo 8 caracteres. Senhas com 7 ou menos caracteres não serão aceitas.
 
-###### 22. Essas senhas não coincidem. Tentar novamente?
+###### Essas senhas não coincidem. Tentar novamente?
 Você deverá digitar no campo "Confirme sua senha" a mesma senha que você digitou no campo "Senha". 
 Caso a mensagem de erro apareça antes de você terminar de digitar a senha, continue, ao terminar de digitar a senha, caso elas estejam iguais, a mensagem de erro deve desaparecer.
 
-###### 23. Por favor, forneça um endereço eletrônico 
+###### Por favor, forneça um endereço eletrônico 
 Você deverá digitar um email válido. Normalmente os e-mails tem o formato "nome@provedor.com" ou "nome@provedor.com.br". Confira se está digitando seu e-mail corretamente.
 
-###### 24. Os e-mails não coincidem. Tentar novamente?
+###### Os e-mails não coincidem. Tentar novamente?
 Você deverá digitar no campo "Confirmar e-mail" o mesmo e-mail que você digitou no campo "E-mail". 
 Caso a mensagem apareça antes de você terminar de preencher, termine de digitar que ela deverá desaparecer.
 
-###### 25. Por favor, digite um nome completo válido.
+###### Por favor, digite um nome completo válido.
 Você deverá digitar o seu nome completo. Todos os nomes e sobrenomes sem abreviações.
