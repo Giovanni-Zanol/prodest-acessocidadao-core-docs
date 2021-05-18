@@ -68,4 +68,4 @@ Caso não tenha recebido o e-mail verifique se você se enquadra em alguma das s
 13 - Termine de prencher os campos do cadastro e clique em "Próxima etapa". Caso nenhum problema seja detectado seu cadastro estará completo e você estará logado no sistema:  
 !["E-mail confirmado"](../_images/Criar16.png)
 
-[CLIQUE AQUI](../_extra_path/_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.
