@@ -34,6 +34,8 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :hidden:
     :caption: Links Úteis
 
+    Links/LinksUteis
+
 .. toctree::
     :maxdepth: 3
     :hidden:
