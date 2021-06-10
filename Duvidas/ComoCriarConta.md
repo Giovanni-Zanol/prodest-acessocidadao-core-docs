@@ -1,6 +1,6 @@
 # Como criar uma Conta  
 
-Para criar uma conta basta acessar o item [Criar uma conta](https://acessocidadao.es.gov.br/Conta/Criar) do menu principal ou da tela de login e seguir os passos abaixo:  
+Para criar uma conta basta acessar o item [Criar uma conta](https://acessocidadao.es.gov.br/Conta/Entrar?ReturnUrl=%2F) do menu principal ou da tela de login e seguir os passos abaixo:  
 1 - Primeiro você tem que <span style="color:red">digitar o seu CPF</span> e clicar em Próxima Etapa para verificar se ele já está cadastrado no sistema.  
 !["Digitar CPF"](../_images/Criar1.png)
 **Exceção:** Se seu CPF já estiver cadastrado você será levado para uma [tela informativa](https://acessocidadao.es.gov.br/Informacoes/CriarConta#) 

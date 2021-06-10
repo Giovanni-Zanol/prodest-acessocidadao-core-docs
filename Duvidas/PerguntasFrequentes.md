@@ -3,10 +3,10 @@
 ### Acesso
 
 ###### Como criar uma conta no Acesso Cidadão?
-[Clique aqui](https://acessocidadao.es.gov.br/Informacoes/CriarConta) e siga as instruções passo a passo.
+[Clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoCriarConta.html) e siga as instruções passo a passo.
 
 ###### Como faço para recuperar minha senha do Acesso Cidadão?
-[Clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoSenha) e siga as instruções passo a passo.
+[Clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html) e siga as instruções passo a passo.
 
 ###### Vocês podem alterar a senha para mim?
 **<span style="color:red">Não!</span>** É impossível para os administradores do sistema reiniciarem ou alteraram as senhas dos usuários manualmente. 
@@ -14,7 +14,7 @@ As senhas só podem ser alteradas ou recuperadas pelo próprio cidadão.
 Por isso é importante que você mantenha seus dados cadastrais sempre atualizados, principalmente o e-mail.
 
 ###### Como recupear o acesso à minha conta quando não tenho mais acesso ao e-mail cadastrado e não vinculei um número de celular, nem uma rede social, à minha conta?
-[Clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoConta) e siga as instruções passo a passo.
+[Clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga as instruções passo a passo.
 
 ###### Posso apagar minha conta?
 Não é possível excluir um usuário do sistema. 
@@ -24,11 +24,11 @@ Caso você queira excluir uma conta porque não consegue criar uma nova conta co
 Você tentou criar uma nova conta e foi informado que "Seu CPF já está cadastrado!"? Calma. 
 Constatamos que na maioria das vezes que somos apresentados com esse problema o que aconteceu foi que a própria pessoa fez um cadastro a muito tempo e não se lembra mais. 
 Também é muito comum as pessoas fazerem um cadastro para algum sistema do estado sem saber que era um cadastro do Acesso Cidadão. 
-O primeiro passo é tentar recuperar a senha: [clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoSenha) e siga as instruções. 
+O primeiro passo é tentar recuperar a senha: [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html) e siga as instruções. 
 Normalmente o cadastro foi feito usando o seu próprio e-mail e seguindo esse procedimento vai ser possível recuperar a senha.
 
 Caso você tente recuperar a senha com o seu CPF e a recuperação vá para um e-mail que você não conhece, ou que não tem mais acesso, o próximo passo é abrir um chamado de 
-recuperação de conta: [Clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoConta) e siga as instruções passo a passo. 
+recuperação de conta: [Clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga as instruções passo a passo. 
 Esse processo é mais burocrático, mas tem a vantagem de recuperar a sua conta em qualquer caso, mesmo que alguém tenha usado o seu CPF 
 sem o seu consentimento ou que você não tenha mais acesso a nenhuma forma de login alternativa.
 
@@ -62,9 +62,9 @@ Se tentou criar uma conta com seu CPF e foi informado que o CPF já está cadast
 A primeira opção é tentar recuperar a senha. Se ao tentar recuperar a senha apareceram os dados de outra pessoa, é porque sua conta (e seu CPF) estão cadastrados com outro e-mail.
 
 Você pode tentar recuperar a senha usando o cpf, em vez do e-mail, para ver qual e-mail está cadastrado no seu CPF: 
-[clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoSenha) e digite seu CPF na hora de recuperar a senha.
+[clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html) e digite seu CPF na hora de recuperar a senha.
 
-Se não tiver mais acesso ao e-mail utilizado: [clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoConta) e siga as instruções.
+Se não tiver mais acesso ao e-mail utilizado: [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga as instruções.
 
 ###### Como trocar o e-mail cadastrado na minha conta?
 Leia a pergunta anterior.
@@ -124,7 +124,7 @@ Você poderá recuperar sua senha [clicando aqui](https://acessocidadao.es.gov.b
 ###### Seu CPF já está cadastrado!
 O seu CPF já está cadastrado no sistema e você não pode fazer um novo cadastro com o mesmo CPF. 
 Você pode recuperar sua senha [clicando aqui](https://acessocidadao.es.gov.br/Conta/SolicitarReinicioSenha). 
-Caso não tenha mais acesso ao e-mail que foi usado no cadastro, siga as instruções da [pergunta 4](https://acessocidadao.es.gov.br/Ajuda/PerguntasFrequentes#RecuperarAcessoConta).
+Caso não tenha mais acesso ao e-mail que foi usado no cadastro, siga as instruções da [pergunta 4](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html).
 
 ###### Senhas curtas são fáceis de advinhar. A senha precisa ter pelo menos 8 caracteres.
 Você deverá usar uma senha com no mínimo 8 caracteres. Senhas com 7 ou menos caracteres não serão aceitas.
