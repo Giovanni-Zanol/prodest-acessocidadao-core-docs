@@ -6,30 +6,37 @@ Com o cuidado de causar o mínimo transtorno possível, as manutenções que pod
 
 Pedimos desculpas pelos possíveis transtornos e agradecemos a compreensão de todos!
 
-#### 31/01/2021
-Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 31/01/2020, domingo, a partir das 21:00 hs com término previsto para 01:00hs do dia 01/02/2021, segunda-feira. Podendo ser finalizada antes do esperado.
+#### 02/06/2021
+Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 02/06/2021, quarta-feira, a partir das 22:00 hs com término previsto para as 05:00hs do dia 03/06/2021, quinta-feira. Podendo ser finalizada antes do esperado.
 
-Durante o período de MANUTENÇÃO haverá indisponibilidade de TODOS os serviços relacionados ao login único.
+Resumo da Manutenção: Migração dos servidores que compõem o cluster de banco de dados para um novo storage, trazendo melhor performance e segurança para a solução.
+
+**Impactos previstos**: Durante o período de MANUTENÇÃO haverá indisponibilidade de TODOS os serviços relacionados ao login único.
+
+#### 31/01/2021
+Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 31/01/2021, domingo, a partir das 21:00 hs com término previsto para 01:00hs do dia 01/02/2021, segunda-feira. Podendo ser finalizada antes do esperado.
+
+Impactos previstos: Durante o período de MANUTENÇÃO haverá indisponibilidade de TODOS os serviços relacionados ao login único.
 
 **Atualização:** A manutenção começou às 21:00, com todos os procedimentos tendo finalizado às 22:05.
 
 #### 02/01/2020
 Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 02/01/2020, quinta-feira, a partir das 18:00 hs com término previsto para às 20:00 hs do mesmo dia. Podendo ser finalizada antes do esperado.
 
-Durante o período de MANUTENÇÃO haverá indisponibilidade de todos os serviços relacionados ao login único.
+Impactos previstos: Durante o período de MANUTENÇÃO haverá indisponibilidade de todos os serviços relacionados ao login único.
 
 **Atualização:** A manutenção começou às 18:00, com todos os procedimentos tendo finalizado às 18:30.
 
 #### 18/09/2019
 Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 18/09/2019, quarta-feira, a partir das 18:00 hs com término previsto para às 18:15 hs do mesmo dia. Podendo ser finalizada antes do esperado.
 
-Durante o período de MANUTENÇÃO poderá haver instabilidade ou indisponibilidade dos serviços relacionados ao login único.
+Impactos previstos: Durante o período de MANUTENÇÃO poderá haver instabilidade ou indisponibilidade dos serviços relacionados ao login único.
 
 **Atualização:** A manutenção começou às 18:30, com todos os procedimentos tendo finalizado às 18:45.
 
 #### 17/09/2019
 Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 17/09/2019, terça-feira, a partir das 18:00 hs com término previsto para às 19:00 hs do mesmo dia. Podendo ser finalizada antes do esperado.
 
-Durante o período de MANUTENÇÃO poderá haver instabilidade ou indisponibilidade dos serviços relacionados ao login único.
+Impactos previstos: Durante o período de MANUTENÇÃO poderá haver instabilidade ou indisponibilidade dos serviços relacionados ao login único.
 
 **Atualização:** A manutenção começou mais tarde do que o previsto, às 19:30, com todos os procedimentos tendo finalizado às 19:45.
