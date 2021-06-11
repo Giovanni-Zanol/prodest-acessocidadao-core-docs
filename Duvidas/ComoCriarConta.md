@@ -7,7 +7,7 @@ Para criar uma conta basta acessar o item [Criar uma conta](https://acessocidada
 e deverá seguir as instruções apresentadas.  
 
 2 - Ao verificar que o seu CPF não possui cadastro, você será levado para a tela seguinte onde poderá preencher com o número do seu CPF e avançar para a próxima etapa  
-!["Tela Inicial de novo cadastro"](../images/CriarNovoCadastroInicio.png)  
+!["Tela Inicial de novo cadastro"](../_images/CriarNovoCadastroInicio.png)  
 
 
 ###### Cadastro Completo  
