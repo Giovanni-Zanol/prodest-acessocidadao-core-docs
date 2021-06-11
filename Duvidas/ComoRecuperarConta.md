@@ -6,7 +6,7 @@
 </div>  
 
 A recuperação de conta é o último recurso que você poderá usar quando não possui mais acesso a sua conta. Apenas use essa opção como última alternativa.  
-1. Primeiro tente recuperar sua senha usando o e-mail cadastrado: [clique aqui](https://acessocidadao.es.gov.br/Ajuda/RecuperacaoSenha).
+1. Primeiro tente recuperar sua senha usando o e-mail cadastrado: [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html).
 
 2. Tente se logar usando uma conta externa (Facebook ou Google). 
 3. Se você possuir uma conta externa vinculada poderá utilizá-la para trocar seu e-mail e recuperar sua senha.  
@@ -35,7 +35,7 @@ Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e rec
 Observação: Isso vale inclusive para CPF. De nenhuma forma será recuperada conta com CPF que não seja do titular da conta.
 
 **Como recuperar uma conta**
-1 - Para ecuperar sua conta [CLIQUE AQUI](https://acessocidadao.es.gov.br/RecuperarConta) e siga os passos abaixo, 
+1 - Para ecuperar sua conta [CLIQUE AQUI](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga os passos abaixo, 
 começando por clicar em "Nova solicitação" para começar um novo pedido:  
 
 !["Esqueceu sua senha?"](../_images/RecuperarConta1.png)  
@@ -47,7 +47,7 @@ começando por clicar em "Nova solicitação" para começar um novo pedido:
 3 - Na próxima tela você deverá informar seu CPF cadastrado e clicar em "Próxima Etapa":  
 !["Digite seu CPF"](../_images/RecuperarConta2.png)  
 
-Se o seu CPF não estiver cadastrado na nossa base de dados você será informado. Nesse caso, [clique aqui](https://acessocidadao.es.gov.br/Conta/Criar) 
+Se o seu CPF não estiver cadastrado na nossa base de dados você será informado. Nesse caso, [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoCriarConta.html) 
 para fazer o seu cadastro e obter uma nova conta:  
 !["CPF não cadastrado"](../_images/Recuperar3.png)  
 
