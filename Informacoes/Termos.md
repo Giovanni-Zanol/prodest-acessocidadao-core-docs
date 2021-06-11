@@ -7,16 +7,16 @@ Ao usar nossos Serviços, você está concordando com estes termos. Leia-os com 
 
 Estes Termos de Serviço descrevem as condições de uso do Acesso Cidadão, incluindo os direitos e deveres de seus usuários.
 
-O Acesso Cidadão é um serviço de autenticação e identificação para os cidadãos que utilizem serviços digitais oferecidos pelo governo do Estado do Espiríto Santo.
+O Acesso Cidadão é um serviço de **autenticação** e **identificação** para os cidadãos que utilizem serviços digitais oferecidos pelo governo do Estado do Espiríto Santo.
 
-O serviço é operado pelo PRODEST (Instituto de Tecnologia da Informação e Comunicação do Espírito Santo) localizado em Avenida João Batista Parra, 465 - Praia do Suá - CEP: 29050-925 - Vitória / ES
-Tel: (0xx27) 3636-7166 / E-mail: atendimento@prodest.es.gov.br
+O serviço é operado pelo PRODEST (Instituto de Tecnologia da Informação e Comunicação do Espírito Santo) localizado em Avenida João Batista Parra, 465 - Praia do Suá - CEP: 29050-925 - Vitória - ES  
+Tel: (0xx27) 3636-7166 /  E-mail: atendimento@prodest.es.gov.br
 
 ### Nossos serviços
 
-É preciso que você siga as políticas disponibilizadas a você dentro dos Serviços.
+É necessário que você siga integralmente as políticas disponibilizadas dentro dos Serviços.
 
-Não faça uso indevido de nossos Serviços. Por exemplo, não interfira com nossos Serviços nem tente acessá-los por um método diferente da interface e das instruções que fornecemos. Você pode usar nossos serviços somente conforme permitido por lei. Podemos suspender ou deixar de fornecer nossos Serviços se você descumprir nossos termos ou políticas ou se estivermos investigando casos de suspeita de má conduta.
+**Não faça uso indevido de nossos Serviços**. Por exemplo, não interfira com nossos Serviços nem tente acessá-los por um método diferente da interface e das instruções que fornecemos. Você pode usar nossos serviços somente conforme permitido por lei. Podemos suspender ou deixar de fornecer nossos Serviços se você descumprir nossos termos ou políticas ou se estivermos investigando casos de suspeita de má conduta.
 
 O uso de nossos Serviços não lhe confere a propriedade sobre direitos de propriedade intelectual sobre os nossos Serviços ou sobre o conteúdo que você acessar. Você não pode usar conteúdos de nossos Serviços a menos que obtenha permissão do proprietário de tais conteúdos ou que o faça por algum meio permitido por lei. Estes termos não conferem a você o direito de usar quaisquer marcas ou logotipos utilizados em nossos Serviços. Não remova, oculte ou altere quaisquer avisos legais exibidos em ou junto a nossos Serviços.
 
