@@ -5,7 +5,7 @@
 	</iframe>
 </div>
 
-1) Para redefinir a senha da sua conta clique em **[Esqueceu sua senha?](https://acessocidadao.es.gov.br/Conta/SolicitarReinicioSenha)** na tela de login e siga os passos abaixo:  
+1) Para redefinir a senha da sua conta clique em **[Esqueceu sua senha?](https://acessocidadao.es.gov.br/Conta/Entrar?ReturnUrl=%2F)** na tela de login e siga os passos abaixo:  
 !["Esqueceu sua senha?"](../_images//Recuperar1.png)  
 
 2) Na próxima tela você deverá digitar o CPF cadastrado no campo CPF e clicar em "Reiniciar a senha":  
