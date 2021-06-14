@@ -13,13 +13,13 @@ No menu superior, ao lado do seu nome clique na seta que apresenta as opções d
 !["Menu de verificação de conta"](../_images/MenuVerificarConta.png)  
 
 Nesta tela serão apresentadas as maneiras de se verificar a sua conta no Acesso Cidadão. Escolha a opção que preferir, clicando no botão **VERIFICAR** 
-que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um [x]  
+que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um sinal de &check.  
 !["Tela opções de verificação"](../_images/TelaVerificarConta.png)  
 
 #### Opções de Verificação de Contas
 
-##### Selos Meu gov.br  
-1 - O portal [Meu gov.br](https://www.gov.br/pt-br) permite a verificação no Acesso Cidadão através dos selos de confiabilidade que aplica em sua plataforma.  
+##### Selos Meu gov.br
+O portal [Meu gov.br](https://www.gov.br/pt-br) permite a verificação no Acesso Cidadão através dos selos de confiabilidade que aplica em sua plataforma.  
 Os selos de confiabilidade se consistem na qualificação das contas por meio de dados autorizados pelo cidadão/usuário, a partir das bases oficiais de governo. 
 Esses dados permitem a utilização de credenciais de acesso em sistemas internos e serviços providos ao cidadão.  
 
@@ -35,18 +35,18 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 - **<span style="color:grey">Selo Internet Banking</span>**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação 
 é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirirvalidacaofacial.html)
 
-##### Certificado Digital  
-2 - Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.  
+##### Certificado Digital
+Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.  
 
-##### CNH Capixaba  
-3 - Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detran/ES você pode utilizar esse serviço para verificar os seus dados e 
+##### CNH Capixaba
+Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detran/ES você pode utilizar esse serviço para verificar os seus dados e 
 habilitar o uso dos serviços do Detran/ES de forma online.  
 
-##### Selfie  
-4 - Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. 
+##### Selfie
+Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. 
 
-##### Servidor Estadual  
-5 - Caso você seja um servidor ativo do executivo estadual e tenha acesso ao portal do servidor, você pode utilizar esse serviço para vincular as duas contas.  
+##### Servidor Estadual
+Caso você seja um servidor ativo do executivo estadual e tenha acesso ao portal do servidor, você pode utilizar esse serviço para vincular as duas contas.  
 
 
 
