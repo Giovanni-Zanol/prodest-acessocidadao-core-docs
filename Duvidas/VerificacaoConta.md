@@ -13,7 +13,7 @@ No menu superior, ao lado do seu nome clique na seta que apresenta as opções d
 !["Menu de verificação de conta"](../_images/MenuVerificarConta.png)  
 
 Nesta tela serão apresentadas as maneiras de se verificar a sua conta no Acesso Cidadão. Escolha a opção que preferir, clicando no botão **VERIFICAR** 
-que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um :heavy_check_mark  
+que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um [x]  
 !["Tela opções de verificação"](../_images/TelaVerificarConta.png)  
 
 #### Opções de Verificação de Contas
@@ -42,10 +42,10 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 3 - Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detran/ES você pode utilizar esse serviço para verificar os seus dados e 
 habilitar o uso dos serviços do Detran/ES de forma online.  
 
-###### Selfie  
+##### Selfie  
 4 - Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. 
 
-###### Servidor Estadual  
+##### Servidor Estadual  
 5 - Caso você seja um servidor ativo do executivo estadual e tenha acesso ao portal do servidor, você pode utilizar esse serviço para vincular as duas contas.  
 
 
