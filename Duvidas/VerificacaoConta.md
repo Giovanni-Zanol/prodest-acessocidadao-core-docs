@@ -13,7 +13,7 @@ No menu superior, ao lado do seu nome clique na seta que apresenta as opções d
 !["Menu de verificação de conta"](../_images/MenuVerificarConta.png)  
 
 Nesta tela serão apresentadas as maneiras de se verificar a sua conta no Acesso Cidadão. Escolha a opção que preferir, clicando no botão **VERIFICAR** 
-que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um sinal de |&check|.  
+que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um sinal de visto.  
 !["Tela opções de verificação"](../_images/TelaVerificarConta.png)  
 
 #### Opções de Verificação de Contas
