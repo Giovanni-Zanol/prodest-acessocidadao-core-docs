@@ -36,7 +36,9 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirirvalidacaofacial.html)
 
 ##### Certificado Digital
-Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.  
+Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.
+Para mais informações sobre certificados digitais, acesse o site da 
+[Receita Federal](https://receita.economia.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 ##### CNH Capixaba
 Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detran/ES você pode utilizar esse serviço para verificar os seus dados e 
