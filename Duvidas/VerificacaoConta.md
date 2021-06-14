@@ -46,7 +46,7 @@ habilitar o uso dos serviços do Detran/ES de forma online.
 Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. 
 
 ##### Servidor Estadual
-Caso você seja um servidor ativo do executivo estadual e tenha acesso ao portal do servidor, você pode utilizar esse serviço para vincular as duas contas.  
+Caso você seja um servidor ativo do executivo estadual e tenha acesso ao [portal do servidor](https://servidor.es.gov.br/), você pode utilizar esse serviço para vincular as duas contas.  
 
 
 
