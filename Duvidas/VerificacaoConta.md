@@ -53,4 +53,4 @@ Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serv
 Caso você seja um servidor ativo do executivo estadual e tenha acesso ao [portal do servidor](https://servidor.es.gov.br/), você pode utilizar esse serviço para vincular as duas contas.  
 
 
-[CLIQUE AQUI](../_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/VerificarConta.pdf) Para obter o arquivo com essas instruções.
