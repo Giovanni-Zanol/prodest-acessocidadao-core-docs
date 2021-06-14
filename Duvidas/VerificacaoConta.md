@@ -47,7 +47,29 @@ Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detr
 habilitar o uso dos serviços do Detran/ES de forma online.  
 
 ##### Selfie
-Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. 
+Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. Para realizar a verificação através de selfie
+basta seguir os procedimentos abaixo:  
+1 - Clique em "verificar"
+!["Verificar conta por selfie"](../_images/SelfieBotao.png)  
+
+2 - Preencha o formulário apresentado
+!["Formulario Selfie"](../_images/SelfieFormulario.png)  
+
+2.1 - Em Tipo de Documento, escolha um a partir das opções apresentadas
+!["Opções de Documentos"](../_images/SelfieDocumentos.png)    
+
+3 - Tire uma foto da frente do documento. Salve e clique em **Próximo**
+!["Frente do Documento"](../_images/SelfieFrenteDoc.png)  
+
+4 - Tire uma foto do verso do documento. Salve e clique em **Próximo**
+!["Foto verso do documento](../_images/SelfieVersoDoc.png)  
+
+5 - Envie uma selfie segurando o documento. Salve e clique em **Concluir**
+!["Selfie com o Documento"](../_images/SelfieDoc.png)  
+
+Após essa etapa você verá uma mensagem solicitando que aguarde até dois dias úteis para a validação ocorrer.
+!["Aguardando validação"](.._images/SelfieAguardandoConfirmacao.png)
+
 
 ##### Servidor Estadual
 Caso você seja um servidor ativo do executivo estadual e tenha acesso ao [portal do servidor](https://servidor.es.gov.br/), você pode utilizar esse serviço para vincular as duas contas.  
