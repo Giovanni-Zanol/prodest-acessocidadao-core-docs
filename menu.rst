@@ -28,6 +28,7 @@ Seja bem vindo à documentação do Acesso Cidadão!
     Duvidas/ComoCriarConta
     Duvidas/ComoRecuperarSenha
     Duvidas/ComoRecuperarConta
+    Duvidas/VerificacaoConta
 
 .. toctree::
     :maxdepth: 3
