@@ -33,7 +33,9 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 - **<span style="color:grey">Selo de Certificado Digital de Pessoa Física</span>**: Validação do cadastro do cidadão por meio da utilização de certificado digital de pessoal física.
 Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirircertificadodigitalpessoafisica.html)
 - **<span style="color:grey">Selo Internet Banking</span>**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação 
-é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirirvalidacaofacial.html)
+é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirirvalidacaofacial.html)  
+
+Esta integração estará disponível em breve!
 
 ##### Certificado Digital
 Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.
