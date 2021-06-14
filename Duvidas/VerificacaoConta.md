@@ -50,15 +50,5 @@ habilitar o uso dos serviços do Detran/ES de forma online.
 
 
 
-1 - Primeiro você tem que <span style="color:red">digitar o seu CPF</span> e clicar em Próxima Etapa para verificar se ele já está cadastrado no sistema.  
-!["Digitar CPF"](../_images/Criar1.png)
-**Exceção:** Se seu CPF já estiver cadastrado você será levado para uma [tela informativa](https://acessocidadao.es.gov.br/Conta/VerificarCPF) 
-e deverá seguir as instruções apresentadas.  
-
-2 - Ao verificar que o seu CPF não possui cadastro, você será levado para a tela seguinte onde poderá preencher com o número do seu CPF e avançar para a próxima etapa  
-!["Tela Inicial de novo cadastro"](../_images/CriarNovoCadastroInicio.png)  
-
-
-
 
 [CLIQUE AQUI](../_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.
