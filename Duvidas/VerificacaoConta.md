@@ -35,7 +35,7 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 - **<span style="color:grey">Selo Internet Banking</span>**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação 
 é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirirvalidacaofacial.html)  
 
-Esta integração estará disponível em breve!
+Esta integração estará disponível em breve!  
 
 ##### Certificado Digital
 Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.
@@ -51,8 +51,6 @@ Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serv
 
 ##### Servidor Estadual
 Caso você seja um servidor ativo do executivo estadual e tenha acesso ao [portal do servidor](https://servidor.es.gov.br/), você pode utilizar esse serviço para vincular as duas contas.  
-
-
 
 
 [CLIQUE AQUI](../_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.
