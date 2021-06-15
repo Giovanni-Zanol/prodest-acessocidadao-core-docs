@@ -13,7 +13,7 @@
 As senhas só podem ser alteradas ou recuperadas pelo próprio cidadão. 
 Por isso é importante que você mantenha seus dados cadastrais sempre atualizados, principalmente o e-mail.
 
-###### Como recupear o acesso à minha conta quando não tenho mais acesso ao e-mail cadastrado e não vinculei um número de celular, nem uma rede social, à minha conta?
+###### Como recupear o acesso à minha conta quando não tenho mais acesso ao e-mail cadastrado?
 [Clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga as instruções passo a passo.
 
 ###### Posso apagar minha conta?
@@ -78,15 +78,7 @@ Conforme as instruções você vai receber um e-mail para confirmar a troca na c
 <span style="color:red">Importante!!! Ao realizar esse procedimento você está fazendo um pedido para troca de e-mail. 
 O e-mail só vai ser alterado efetivamente depois que você clicar no link que foi enviado para seu novo e-mail.</span>  
 
-### Login Externo  
-###### Estou tentando entrar com a minha conta de rede social, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
-Nesse caso sua conta de Facebook ou Google não está vinculada à sua conta. Para vincular uma rede social à sua conta, siga as intruções da próxima pergunta.
-
-###### Como vincular uma rede social à minha conta?
-Você deverá entrar no Acesso Cidadão com seu CPF e senha e após logado entrar no item "Editar Perfil" como na imagem abaixo:
-!["Editar Perfil"](../_images/Pergunta1.png)  
-Em seguida você deve clicar na rede social que deseja vincular a sua conta e seguir as instruções na tela:
-!["Vincular rede social"](../_images/Pergunta2.png)  
+### Login Externo 
 
 ###### Estou tentando entrar com meu celular, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
 Nesse caso seu celular não está vinculada à sua conta. No momento não é mais possível vincular um celular a sua conta para usar como método de login.
