@@ -6,13 +6,9 @@
 </div>  
 
 A recuperação de conta é o último recurso que você poderá usar quando não possui mais acesso a sua conta. Apenas use essa opção como última alternativa.  
-1. Primeiro tente recuperar sua senha usando o e-mail cadastrado: [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html).
+Primeiro tente recuperar sua senha usando o e-mail cadastrado: [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html).  
 
-2. Tente se logar usando uma conta externa (Facebook ou Google). 
-3. Se você possuir uma conta externa vinculada poderá utilizá-la para trocar seu e-mail e recuperar sua senha.  
-
-
-Se não conseguir acesso a conta por nenhuma das opções anteriores, então o único modo para recuperar seu acesso é abrir uma solicitação de recuperação de conta.  
+Se não conseguir, o único modo para recuperar seu acesso é abrir uma solicitação de recuperação de conta.  
 Alguns pontos importantes que você deve levar em consideração antes de começar o preenchimento:
 - Será necessário que você tenha em mãos um documento de identidade com foto, e que seja possível digitalizar ou tirar fotos desse documento 
 (Um celular com câmera já resolve, caso a foto tirada esteja legível);
