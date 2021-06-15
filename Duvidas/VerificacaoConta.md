@@ -1,4 +1,4 @@
-# Como Verificar uma Conta  
+# Como Verificar Uma Conta  
 
 Mesmo após o cadastro em plataformas, como o Acesso Cidadão, é necessário fornecer meios de se comprovar a autenticidade das informações apresentadas. 
 Isso proporciona mais segurança para o órgão que receberá suas informações e também para o cidadão/usuário do sistema, pois as verificações ajudam a manter 

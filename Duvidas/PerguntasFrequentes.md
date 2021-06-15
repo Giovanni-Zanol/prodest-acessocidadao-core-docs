@@ -133,4 +133,8 @@ Você deverá digitar no campo "Confirmar e-mail" o mesmo e-mail que você digit
 Caso a mensagem apareça antes de você terminar de preencher, termine de digitar que ela deverá desaparecer.
 
 ###### Por favor, digite um nome completo válido.
-Você deverá digitar o seu nome completo. Todos os nomes e sobrenomes sem abreviações.
+Você deverá digitar o seu nome completo. Todos os nomes e sobrenomes sem abreviações.  
+
+  
+
+[CLIQUE AQUI](../_arquivos/PerguntasFrequentes.pdf) Para obter o arquivo com essas instruções

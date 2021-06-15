@@ -1,4 +1,4 @@
-# Como criar uma Conta  
+# Como Criar Uma Conta  
 
 Para criar uma conta basta acessar o item [Criar uma conta](https://acessocidadao.es.gov.br/Conta/Entrar?ReturnUrl=%2F) do menu principal ou da tela de login   
 !["Tela inicial de cadastro"](../_images/CriarConta_Inicio.png)  

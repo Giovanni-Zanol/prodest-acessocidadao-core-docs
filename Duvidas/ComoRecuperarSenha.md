@@ -1,4 +1,4 @@
-# Como recuperar a senha
+# Como Recuperar a Senha
 
 <div class="video">
 	<iframe width="640" height="360" src="https://player.vimeo.com/video/275083014" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen>
