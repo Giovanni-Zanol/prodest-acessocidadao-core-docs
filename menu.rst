@@ -14,10 +14,10 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :hidden:
     :caption: Informações
 
+    Informacoes/Sobre
     Informacoes/Termos
     Informacoes/PoliticaPrivacidade
     Informacoes/Manutencoes
-    Informacoes/Sobre
 
 .. toctree::
     :maxdepth: 3
@@ -29,6 +29,8 @@ Seja bem vindo à documentação do Acesso Cidadão!
     Duvidas/ComoRecuperarSenha
     Duvidas/ComoRecuperarConta
     Duvidas/VerificacaoConta
+    Duvidas/Contas
+    Duvidas/Senhas
 
 .. toctree::
     :maxdepth: 3
