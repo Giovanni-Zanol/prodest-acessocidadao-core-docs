@@ -19,7 +19,7 @@ forem corrigidas;
 - Após a recuperação da conta, as informações do seu cadastro serão atualizadas de acordo com as informações contidas no documento utilizado, 
 isso inclui o nome do titular e todos os outros dados pessoais.
 
-**Importante!!!**
+**Importante!!!**  
 <span style="color:red">É sua responsabilidade garantir que todas as informações prestadas estão corretas e são verdadeiras. 
 Qualquer declaração falsa (bem como documentação comprobatória), poderá incorrer na sanção penal prevista no art. 299 do Código Penal* (falsidade ideológica).</span>  
 
@@ -30,7 +30,7 @@ Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e rec
 
 Observação: Isso vale inclusive para CPF. De nenhuma forma será recuperada conta com CPF que não seja do titular da conta.
 
-**Como recuperar uma conta**
+### Como recuperar uma conta  
 1 - Para ecuperar sua conta [CLIQUE AQUI](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga os passos abaixo, 
 começando por clicar em "Nova solicitação" para começar um novo pedido:  
 
@@ -50,7 +50,7 @@ para fazer o seu cadastro e obter uma nova conta:
 4 - Agora vai ser necessário informar o novo e-mail que você vai querer usar na sua conta:  
 !["CPF não cadastrado"](../_images/RecuperarConta8.png)  
 
-**Observações Importantes!!!**
+**Observações Importantes!!!**  
 - Não é possível usar o mesmo e-mail para mais de um CPF. Caso você já tenha usado o e-mail em outra conta não vai ser possível continuar. 
 Por esse mesmo motivo não é recomendado utilizar o e-mail de outras pessoas no seu cadastro.
 - Daqui para frente esse e-mail vai ser utilizado para toda comunicação referente a sua conta, inclusive para informar sobre o andamento da recuperação de conta.
