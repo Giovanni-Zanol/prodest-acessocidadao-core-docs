@@ -19,25 +19,29 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 4) Caso seu CPF já esteja cadastrado você receberá um e-mail com o assunto "Redefinição de Senha" e será encaminhado para a tela abaixo:  
 !["E-mail enviado"](../_images/Recuperar4.png)  
 Siga as instruções da tela caso não tenha recebido o seu e-mail. A tela explica os problemas mais comuns para não receber os e-mails do sistema e como resolvê-los.  
 Caso o e-mail usado na hora de criar a conta não exista mais, ou não tenha mais acesso a ele, clique aqui para ser redirecionado para a explicação de como proceder com 
 uma recuperação de conta.  
-
+&nbsp;
 
 5) O email recebido deve ser similar à imagem abaixo. Para recuperar sua senha clique no link apresentado ou copie e cole o endereço no seu navegador da internet:  
 !["E-mail para reiniciar senha"](../_images/Recuperar5.png)  
-
+&nbsp;
 
 6) Aoabrir o link do e-mail você será redirecionado para a tela abaixo. Nessa tela você deverá digitar a nova senha que deseja usar daqui para frente e clicar no botão "Alterar":  
 !["Redefinir senha"](../_images/Recuperar6.png)  
-
+&nbsp;
 
 7) Com isso sua senha será alterada e você estará automaticamente logado no sistema. Daqui para frente você deverá usar a nova senha sempre que quiser entrar no sistema:  
 !["Senha alterada"](../_images/Recuperar7.png)  
-
+&nbsp;
 
 **Observação:** Durante a digitação da nova senha, pode ser que uma das mensagens abaixo apareça. 
 A primeira, destacada em azul, significa que sua senha está muito curta e por questão de segurança precisa ser maior. 
