@@ -116,7 +116,7 @@ Você poderá recuperar sua senha [clicando aqui](https://acessocidadao.es.gov.b
 ###### Seu CPF já está cadastrado!
 O seu CPF já está cadastrado no sistema e você não pode fazer um novo cadastro com o mesmo CPF. 
 Você pode recuperar sua senha [clicando aqui](https://acessocidadao.es.gov.br/Conta/SolicitarReinicioSenha). 
-Caso não tenha mais acesso ao e-mail que foi usado no cadastro, siga as instruções da [pergunta 4](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html).
+Caso não tenha mais acesso ao e-mail que foi usado no cadastro, siga as instruções para [recuperação de conta](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html).
 
 ###### Senhas curtas são fáceis de advinhar. A senha precisa ter pelo menos 8 caracteres.
 Você deverá usar uma senha com no mínimo 8 caracteres. Senhas com 7 ou menos caracteres não serão aceitas.
