@@ -6,7 +6,7 @@
 </div>  
 
 A recuperação de conta é o último recurso que você poderá usar quando não possui mais acesso a sua conta. Apenas use essa opção como última alternativa.  
-Primeiro tente recuperar sua senha usando o e-mail cadastrado: [clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html).  
+Primeiro tente recuperar sua senha usando o e-mail cadastrado. Saiba como recuperar sua senha [clicando aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarSenha.html).  
 
 Se não conseguir, o único modo para recuperar seu acesso é abrir uma solicitação de recuperação de conta.  
 Alguns pontos importantes que você deve levar em consideração antes de começar o preenchimento:
@@ -30,7 +30,7 @@ Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e rec
 
 Observação: Isso vale inclusive para CPF. De nenhuma forma será recuperada conta com CPF que não seja do titular da conta.
 
-### Como recuperar uma conta  
+
 1 - Para ecuperar sua conta [CLIQUE AQUI](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga os passos abaixo, 
 começando por clicar em "Nova solicitação" para começar um novo pedido:  
 
