@@ -19,7 +19,7 @@ e deverá seguir as instruções apresentadas.
 
 - CPF: Já vem preenchido e não pode ser alterado nessa etapa
 
-- Nome completo: Campo obrigatório
+- Nome completo: Campo obrigatório. Digite o nome completo, sem abreviações
 - Senha: Campo obrigatório. Senha que vai ser usada para entrar no sistema
     - Deve conter no mínimo 8 caracteres
     - É sugerido que não seja utilizada uma senha classificada como fraca
