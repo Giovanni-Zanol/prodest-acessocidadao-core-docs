@@ -15,14 +15,14 @@
 
 3) Se o seu CPF não estiver cadastrado na nossa base de dados você será informado. Nesse caso, faça seu cadastro **[clicando aqui](https://acessocidadao.es.gov.br/Conta/Criar)**.  
 !["CPF não cadastrado"](../_images/Recuperar3.png)  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 4) Caso seu CPF já esteja cadastrado você receberá um e-mail com o assunto "Redefinição de Senha" e será encaminhado para a tela abaixo:  
 !["E-mail enviado"](../_images/Recuperar4.png)  
@@ -35,7 +35,7 @@ uma recuperação de conta.
 !["E-mail para reiniciar senha"](../_images/Recuperar5.png)  
 &nbsp;
 
-6) Aoabrir o link do e-mail você será redirecionado para a tela abaixo. Nessa tela você deverá digitar a nova senha que deseja usar daqui para frente e clicar no botão "Alterar":  
+6) Ao abrir o link do e-mail você será redirecionado para a tela abaixo. Nessa tela você deverá digitar a nova senha que deseja usar daqui para frente e clicar no botão "Alterar":  
 !["Redefinir senha"](../_images/Recuperar6.png)  
 &nbsp;
 
