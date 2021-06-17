@@ -114,15 +114,15 @@ Esse número deve ser anotado pois será usado daqui para frente para acompanhar
 
 **Observação:** Você também vai receber esse número por e-mail.  
 
-### Como Verificar Uma Conta  
+## Como Verificar Uma Conta  
 
 Mesmo após o cadastro em plataformas, como o Acesso Cidadão, é necessário fornecer meios de se comprovar a autenticidade das informações apresentadas. 
 Isso proporciona mais segurança para o órgão que receberá suas informações e também para o cidadão/usuário do sistema, pois as verificações ajudam a manter 
 afastadas pessoas má intencionadas mesmo que elas possuam sua senha.  
 
-#### Verificação de contas no Acesso Cidadão  
+### Verificação de contas no Acesso Cidadão  
 
-Para escolher o modo de verificação de sua conta no Acesso Cidadão acesse a plataforma e faça o login.
+Para escolher o modo de verificação de sua conta no Acesso Cidadão acesse a plataforma e faça o login.  
 !["Tela de login Acesso Cidadão"](../_images/Acesso.png)  
 
 No menu superior, ao lado do seu nome clique na seta que apresenta as opções de sua conta e em seguida clique em Verificar Conta  
@@ -132,9 +132,9 @@ Nesta tela serão apresentadas as maneiras de se verificar a sua conta no Acesso
 que existe para cada opção. No exemplo abaixo já existem duas verificações utilizadas; elas apresentam um sinal de visto.  
 !["Tela opções de verificação"](../_images/TelaVerificarConta.png)  
 
-##### Opções de Verificação de Contas
+#### Opções de Verificação de Contas
 
-###### Selos Meu gov.br
+##### Selos Meu gov.br
 O portal [Meu gov.br](https://www.gov.br/pt-br) permite a verificação no Acesso Cidadão através dos selos de confiabilidade que aplica em sua plataforma.  
 Os selos de confiabilidade se consistem na qualificação das contas por meio de dados autorizados pelo cidadão/usuário, a partir das bases oficiais de governo. 
 Esses dados permitem a utilização de credenciais de acesso em sistemas internos e serviços providos ao cidadão.  
@@ -153,16 +153,16 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 
 Esta integração estará disponível em breve!  
 
-###### Certificado Digital
+##### Certificado Digital
 Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.
 Para mais informações sobre certificados digitais, acesse o site da 
 [Receita Federal](https://receita.economia.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
-###### CNH Capixaba
+##### CNH Capixaba
 Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detran/ES você pode utilizar esse serviço para verificar os seus dados e 
 habilitar o uso dos serviços do Detran/ES de forma online.  
 
-###### Selfie
+##### Selfie
 Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. Para realizar a verificação através de selfie
 basta seguir os procedimentos abaixo:  
 1 - Clique em "verificar"
@@ -186,5 +186,5 @@ basta seguir os procedimentos abaixo:
 Após essa etapa você verá uma mensagem solicitando que aguarde até dois dias úteis para a validação ocorrer.
 !["Aguardando validação"](../_images/SelfieAguardandoConfirmacao.png)  
 
-###### Servidor Estadual
+##### Servidor Estadual
 Caso você seja um servidor ativo do executivo estadual e tenha acesso ao [portal do servidor](https://servidor.es.gov.br/), você pode utilizar esse serviço para vincular as duas contas.  

@@ -6,7 +6,7 @@ afastadas pessoas má intencionadas mesmo que elas possuam sua senha.
 
 ## Verificação de contas no Acesso Cidadão  
 
-Para escolher o modo de verificação de sua conta no Acesso Cidadão acesse a plataforma e faça o login.
+Para escolher o modo de verificação de sua conta no Acesso Cidadão acesse a plataforma e faça o login.  
 !["Tela de login Acesso Cidadão"](../_images/Acesso.png)  
 
 No menu superior, ao lado do seu nome clique na seta que apresenta as opções de sua conta e em seguida clique em Verificar Conta  
