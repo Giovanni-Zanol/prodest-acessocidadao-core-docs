@@ -31,7 +31,7 @@ Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e rec
 Observação: Isso vale inclusive para CPF. De nenhuma forma será recuperada conta com CPF que não seja do titular da conta.
 
 
-1 - Para ecuperar sua conta [CLIQUE AQUI](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga os passos abaixo, 
+1 - Para recuperar sua conta [CLIQUE AQUI](https://acessocidadao.es.gov.br/recuperarconta) e siga os passos abaixo, 
 começando por clicar em "Nova solicitação" para começar um novo pedido:  
 
 !["Esqueceu sua senha?"](../_images/RecuperarConta1.png)  
