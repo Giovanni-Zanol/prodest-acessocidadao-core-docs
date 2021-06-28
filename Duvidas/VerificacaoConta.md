@@ -70,8 +70,6 @@ basta seguir os procedimentos abaixo:
 Após essa etapa você verá uma mensagem solicitando que aguarde até dois dias úteis para a validação ocorrer.
 !["Aguardando validação"](../_images/SelfieAguardandoConfirmacao.png)  
 
-#### Servidor Estadual
-Caso você seja um servidor ativo do executivo estadual e tenha acesso ao [portal do servidor](https://servidor.es.gov.br/), você pode utilizar esse serviço para vincular as duas contas.  
 
 
 [CLIQUE AQUI](../_arquivos/VerificarConta.pdf) Para obter o arquivo com essas instruções.

@@ -1,4 +1,4 @@
-# Senhas
+# Sobre Senhas
 Quando criar uma conta no Acesso Cidadão será solicitado que você crie uma senha. A senha é um dos mecanismos que garantem a segurança dos seus dados. 
 Sendo assim é preciso que você crie uma senha **forte**, **segura** e que apenas você conheça.  
 
