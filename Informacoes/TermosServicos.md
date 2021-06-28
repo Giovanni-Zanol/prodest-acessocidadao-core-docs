@@ -1,5 +1,5 @@
 # Termos de Serviço
-Última modificação: 28 de março de 2016
+Última modificação: 28 de junho de 2021
 
 Ao usar a plataforma do Acesso Cidadão e os serviços nela contidos, você concorda com estes termos. Leia-os com atenção.  
 
