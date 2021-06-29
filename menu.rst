@@ -15,8 +15,8 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :caption: Informações
 
     Informacoes/Sobre
-    Informacoes/TermosServicos
-    Informacoes/PoliticasPrivacidade
+    Informacoes/Termos
+    Informacoes/PoliticaPrivacidade
     Informacoes/Manutencoes
 
 .. toctree::
