@@ -58,13 +58,17 @@ Primeiro tente recuperar sua senha usando o e-mail cadastrado: [clique aqui](htt
 
 Se não conseguir, o único modo para recuperar seu acesso é abrir uma solicitação de recuperação de conta.  
 Alguns pontos importantes que você deve levar em consideração antes de começar o preenchimento:
-- Será necessário que você tenha em mãos um documento de identidade com foto, e que seja possível digitalizar ou tirar fotos desse documento 
-(Um celular com câmera já resolve, caso a foto tirada esteja legível);
-- A validação dessa solicitação será feita de forma manual e por conta disso poderá demorar até 48h úteis para ser respondida;
-- Esse prazo começará a contar somente após o preenchimento de todas as informações solicitadas, sem inconsistências;
-- Se for verificada alguma inconsistência nas informações que você preencheu, você será avisado por e-mail e o prazo será reiniciado assim que essas inconsistências 
-forem corrigidas;
-- Após a recuperação da conta, as informações do seu cadastro serão atualizadas de acordo com as informações contidas no documento utilizado, 
+* Será necessário que você tenha em mãos um documento de identidade com foto, e que seja possível digitalizar ou tirar fotos desse documento 
+(Um celular com câmera já resolve, caso a foto tirada esteja legível).
+    * Os documentos aceitos são:
+	    * **Carteira de Identidade (RG)**: Também são permitdos Carteiras de Ordem ou Conselho, ou Passaporte (desde que esses documentos possuam o número do RG).
+		* **Carteira Nacional de Habilitação (CNH)**.
+		* **Carteira de Trabalho (CTPS)**.
+* A validação dessa solicitação será feita de forma manual e por conta disso poderá demorar até 48h úteis para ser respondida.
+* Esse prazo começará a contar somente após o preenchimento de todas as informações solicitadas, sem inconsistências.
+* Se for verificada alguma inconsistência nas informações que você preencheu, você será avisado por e-mail e o prazo será reiniciado assim que essas inconsistências 
+forem corrigidas.
+* Após a recuperação da conta, as informações do seu cadastro serão atualizadas de acordo com as informações contidas no documento utilizado, 
 isso inclui o nome do titular e todos os outros dados pessoais.
 
 **Importante!!!**  
@@ -79,7 +83,7 @@ Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e rec
 Observação: Isso vale inclusive para CPF. De nenhuma forma será recuperada conta com CPF que não seja do titular da conta.
 
 
-1 - Para ecuperar sua conta [CLIQUE AQUI](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga os passos abaixo, 
+1 - Para recuperar sua conta [CLIQUE AQUI](https://docs.acessocidadao.es.gov.br/Duvidas/ComoRecuperarConta.html) e siga os passos abaixo, 
 começando por clicar em "Nova solicitação" para começar um novo pedido:  
 
 !["Esqueceu sua senha?"](../_images/RecuperarConta1.png)  
