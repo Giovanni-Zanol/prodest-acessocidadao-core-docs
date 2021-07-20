@@ -22,14 +22,18 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :hidden:
     :caption: Contas
 
-    Contas/Contas
+    Contas/CriarConta
+    Contas/RecuperarConta
+    Contas/VerificarConta
 
 .. toctree::
     :maxdepth: 3
     :hidden:
     :caption: Senhas
 
-    Senhas/Senhas
+    Senhas/CriarSenha
+    Senhas/AlterarSenha
+    Senhas/RecuperarSenha
 
 .. toctree::
     :maxdepth: 3
