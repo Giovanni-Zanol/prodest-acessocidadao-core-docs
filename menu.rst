@@ -12,22 +12,24 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Informações
-
-    Informacoes/Sobre
-    Informacoes/Termos
-    Informacoes/PoliticaPrivacidade
-    Informacoes/Manutencoes
-
-.. toctree::
-    :maxdepth: 3
-    :hidden:
     :caption: Dúvidas
 
     Duvidas/PerguntasFrequentes
     Duvidas/ServicosEspecificos
-    Duvidas/Contas
-    Duvidas/Senhas
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Contas
+
+    Contas/Contas
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Senhas
+
+    Senhas/Senhas
 
 .. toctree::
     :maxdepth: 3
@@ -39,9 +41,12 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Carga
+    :caption: Informações
 
-    Carga/SIARHES
+    Informacoes/Termos
+    Informacoes/PoliticaPrivacidade
+    Informacoes/Manutencoes
+
 
 
 
