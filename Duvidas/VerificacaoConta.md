@@ -35,6 +35,9 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 - **<span style="color:grey">Selo Internet Banking</span>**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação 
 é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirirvalidacaofacial.html)  
 
+Os selos ainda estão divididos em 3 níveis: Básico (Bronze), Verificado (Prata) e Comprovado (Ouro). O Acesso Cidadão aceita apenas as verificações de nível Prata e Ouro.
+Saiba mais [clicando aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html)  
+
 Esta integração estará disponível em breve!  
 
 #### Certificado Digital
@@ -42,9 +45,6 @@ Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar es
 Para mais informações sobre certificados digitais, acesse o site da 
 [Receita Federal](https://receita.economia.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
-#### CNH Capixaba
-Caso você tenha uma CNH (Carteira Nacional de Habilitação) expedida pelo Detran/ES você pode utilizar esse serviço para verificar os seus dados e 
-habilitar o uso dos serviços do Detran/ES de forma online.  
 
 #### Selfie
 Esse procedimento pode ser utilizado para verificar a sua conta e habilitar serviços que exigem mais segurança. Para realizar a verificação através de selfie
