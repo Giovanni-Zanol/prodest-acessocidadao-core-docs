@@ -1,6 +1,28 @@
 # Perguntas Frequentes
 
+### Perfil
+
+###### Recebi uma mensagem que não foi possível validar as informações da minha conta na Receita Federal, o que fazer?
+
+!["Validar conta"](../_images/Validacao.jpeg) 
+
+Desde a [versão de 12/08/2021](https://docs.acessocidadao.es.gov.br/Informacoes/Versoes.html), o Acesso Cidadão está fazendo a validação automática de todos as informações das contas junto a Receita Federal. Caso alguma informação (nome, nome da mãe ou data de nascimento) esteja divergente, a conta vai ficar travada nessa tela até que as informações sejam corrigidas.
+
+Em alguns casos não foi possível fazer a validação de forma automática e por isso a mensagem aparece. Nestes casos é necessários salvar o perfil, clicando no botão SALVAR, para que os dados sejam revalidados.
+
+Caso isso não resolva, alguma informação não está igual ao que está sendo consultado na receita:
+
+* O sistema não diferencia maiúsculas de minúsculas.
+* Os campos validados não permitem edição, logo se um campo permite ser alterado é porque ele deve ser corrigido.
+* Os principais campos para validação são o Nome, Data de Nascimento e Nome da Mãe.
+
 ### Acesso
+
+###### Estou recebendo uma mensagem de erro quando tento acessar qualquer sistema, o que fazer?
+
+!["Erro no acesso"](../_images/Erro.jpg) 
+
+Caso você esteja recebendo essa mensagem de forma recorrente, o seu navegador está com informações guardadas (cache) de uma versão anterior do Acesso Cidadão e essas informações precisam ser limpas para que o sistema volte a funcionar normalmente. Para isso você precisa acessar esse [link](https://acessocidadao.es.gov.br/Conta/LimparSessao) e clicar no botão "LIMPAR SESSÃO".
 
 ###### Como criar uma conta no Acesso Cidadão?
 [Clique aqui](https://docs.acessocidadao.es.gov.br/Duvidas/ComoCriarConta.html) e siga as instruções passo a passo.
@@ -78,13 +100,10 @@ Conforme as instruções você vai receber um e-mail para confirmar a troca na c
 <span style="color:red">Importante!!! Ao realizar esse procedimento você está fazendo um pedido para troca de e-mail. 
 O e-mail só vai ser alterado efetivamente depois que você clicar no link que foi enviado para seu novo e-mail.</span>  
 
-### Login Externo 
-
-###### Estou tentando entrar com meu celular, mas sou direcionado para a tela de verificar CPF e em seguida para a tela de cadastro. O que fazer?
-Nesse caso seu celular não está vinculada à sua conta. No momento não é mais possível vincular um celular a sua conta para usar como método de login.
+### Celular 
 
 ###### Como vincular uma celular à minha conta?
-No momento não é mais possível vincular um celular a sua conta para usar como método de login.  
+No momento não é mais possível vincular um celular a sua conta. Qualquer informação relativa a celular é dado específico do serviço que se está tentando acessar. Por exemplo, serviços do Detran usam dados de celular cadastrados na própria base do Detran. O Acesso Cidadão não tem como corrigir caso essa infomação esteja errada/desatualizada e você precisa entrar em contato diretamente com o Detran.
 
 ### Concursos
 ###### Tenha uma dúvida específica sobre um concurso.
@@ -99,8 +118,8 @@ E você sempre pode pedir um posicionamento oficial do estado através do site d
 
 ### Verificar CPF
 ###### Por que estou vendo uma mensagem que meu CPF ainda não foi validado?
-Essa é uma etapa opcional que nos permite ter mais segurança sobre o titular de uma determinada conta.  
-A validação do seu CPF apesar de opcional é altamente recomendada e caso informações divergentes sejam detectadas o seu cadastro pode ser bloqueado.
+Essa é uma etapa obrigatória que nos permite ter mais segurança sobre o titular de uma determinada conta.  
+Caso informações divergentes sejam detectadas o seu cadastro pode ser bloqueado.
 
 ###### Meu nome mudou recentemente, como valido meu CPF?
 Caso tenha ocorrido mudança de nome recentemente (por motivo de casamento, divórcio, etc), pode ser necessário atualizar seus dados junto à Receita Federal. 

@@ -49,6 +49,7 @@ Seja bem vindo à documentação do Acesso Cidadão!
 
     Informacoes/Termos
     Informacoes/PoliticaPrivacidade
+    Informacoes/Versoes
     Informacoes/Manutencoes
 
 
