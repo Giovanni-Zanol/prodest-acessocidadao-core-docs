@@ -16,6 +16,7 @@ Seja bem vindo à documentação do Acesso Cidadão!
 
     Duvidas/PerguntasFrequentes
     Duvidas/ServicosEspecificos
+    Duvidas/ProblemasCPF
 
 .. toctree::
     :maxdepth: 3
