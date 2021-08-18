@@ -38,7 +38,6 @@ Para saber como adquirir este selo, [clique aqui](http://faq-login-unico.servico
 Os selos ainda estão divididos em 3 níveis: Básico (Bronze), Verificado (Prata) e Comprovado (Ouro). O Acesso Cidadão aceita apenas as verificações de nível Prata e Ouro.
 Saiba mais [clicando aqui](http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html)  
 
-Esta integração estará disponível em breve!  
 
 #### Certificado Digital
 Caso você tenha um Certificado Digital (e-CPF ou e-CNPJ) você pode utilizar esse serviço para verificar a sua conta e habilitar serviços que exigem mais segurança.
