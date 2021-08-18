@@ -47,4 +47,4 @@ Caso não tenha recebido o e-mail verifique se você se enquadra em alguma das s
 !["E-mail confirmado"](../_images/Criar13.png)  
 
 
-[CLIQUE AQUI](../_arquivos/DuvidasConta.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.

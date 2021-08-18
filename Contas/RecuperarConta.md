@@ -71,4 +71,4 @@ Esse número deve ser anotado pois será usado daqui para frente para acompanhar
 **Observação:** Você também vai receber esse número por e-mail.  
 
 
-[CLIQUE AQUI](../_arquivos/DuvidasConta.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/RecuperarConta.pdf) Para obter o arquivo com essas instruções.

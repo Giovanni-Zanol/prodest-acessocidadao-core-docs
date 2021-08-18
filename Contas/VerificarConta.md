@@ -73,4 +73,4 @@ Após essa etapa você verá uma mensagem solicitando que aguarde até dois dias
 &nbsp;  
 &nbsp;  
 
-[CLIQUE AQUI](../_arquivos/DuvidasConta.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/VerificarConta.pdf) Para obter o arquivo com essas instruções.
