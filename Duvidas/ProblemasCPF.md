@@ -19,4 +19,4 @@ receberá um protocolo de atendimento com o e-mail para onde deve encaminhar a d
 [Neste link](https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf/envio-de-documentos-por-e-mail) estão as instruções de como enviar documentos 
 para regularizar o CPF.
 
-[CLIQUE AQUI](../_arquivos/CriarConta.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/ProblemasCPF.pdf) Para obter o arquivo com essas instruções.
