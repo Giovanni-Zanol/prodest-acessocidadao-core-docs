@@ -45,4 +45,4 @@ varificações [neste post](https://docs.acessocidadao.es.gov.br/Duvidas/Verific
 &nbsp;  
 &nbsp;  
 
-[CLIQUE AQUI](../_arquivos/DuvidasSenhas.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/RecuperarSenha.pdf) Para obter o arquivo com essas instruções.

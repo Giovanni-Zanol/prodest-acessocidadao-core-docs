@@ -18,4 +18,4 @@ Caso você desconfie que alguém possa ter acesso a sua senha é muito important
 &nbsp;  
 &nbsp;  
 
-[CLIQUE AQUI](../_arquivos/DuvidasSenhas.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](../_arquivos/AlterarSenha.pdf) Para obter o arquivo com essas instruções.
