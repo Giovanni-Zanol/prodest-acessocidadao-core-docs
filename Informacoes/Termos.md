@@ -142,3 +142,8 @@ tomar providências futuras).
 Caso uma condição específica destes termos não seja executável, isso não prejudicará quaisquer outros termos.  
 
 Fica eleito o foro da comarca de Vitória / ES para dirimir eventuais controvérsias que venham a surgir da interpretação e do cumprimento do presente termo de serviço.
+
+&nbsp;  
+&nbsp;  
+
+[CLIQUE AQUI](../_arquivos/TermosServicos.pdf) Para obter o arquivo com essas instruções.

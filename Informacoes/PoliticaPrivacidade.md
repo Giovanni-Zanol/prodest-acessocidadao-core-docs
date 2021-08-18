@@ -128,4 +128,8 @@ serviços que tenham políticas de privacidade separadas que não incorporam est
 
 Esta Política de Privacidade pode ser alterada de periodicamente. Não serão reduzidos os direitos do usuário nesta Política de Privacidade sem seu consentimento 
 explícito. Todas e quaisquer alterações da política de privacidade serão publicadas nesta página e, se as alterações forem significativas, será oferecido um aviso 
-com mais destaque (incluindo, para alguns serviços, notificação por e-mail das alterações da política de privacidade).
+com mais destaque (incluindo, para alguns serviços, notificação por e-mail das alterações da política de privacidade).  
+&nbsp;  
+&nbsp;  
+
+[CLIQUE AQUI](../_arquivos/PoliticaPrivacidade.pdf) Para obter o arquivo com essas instruções.
