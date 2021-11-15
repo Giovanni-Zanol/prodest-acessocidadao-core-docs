@@ -11,6 +11,8 @@ Informamos que será realizada uma atualização tecnológica  na camada de infr
 
 Resumo da Manutenção: Atualização dos serviços da SERPRO utilizados para verificar informações de CPF que podem impactar no serviço do Acesso Cidadão.
 
+**Atualização:** Nenhum impacto detectado.
+
 #### 02/06/2021
 Informamos que será realizada manutenção corretiva na parte pública do Acesso Cidadão no dia 02/06/2021, quarta-feira, a partir das 22:00 hs com término previsto para as 05:00hs do dia 03/06/2021, quinta-feira. Podendo ser finalizada antes do esperado.
 
