@@ -12,24 +12,29 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Informações
+    :caption: Dúvidas
 
-    Informacoes/Sobre
-    Informacoes/Termos
-    Informacoes/PoliticaPrivacidade
-    Informacoes/Manutencoes
+    Duvidas/PerguntasFrequentes
+    Duvidas/ServicosEspecificos
+    Duvidas/ProblemasCPF
 
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Dúvidas
+    :caption: Contas
 
-    Duvidas/PerguntasFrequentes
-    Duvidas/ComoCriarConta
-    Duvidas/ComoRecuperarSenha
-    Duvidas/ComoRecuperarConta
-    Duvidas/VerificacaoConta
-    Duvidas/ServicosEspecificos
+    Contas/CriarConta
+    Contas/RecuperarConta
+    Contas/VerificarConta
+
+.. toctree::
+    :maxdepth: 3
+    :hidden:
+    :caption: Senhas
+
+    Senhas/CriarSenha
+    Senhas/AlterarSenha
+    Senhas/RecuperarSenha
 
 .. toctree::
     :maxdepth: 3
@@ -41,9 +46,13 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Carga
+    :caption: Informações
 
-    Carga/SIARHES
+    Informacoes/Termos
+    Informacoes/PoliticaPrivacidade
+    Informacoes/Versoes
+    Informacoes/Manutencoes
+
 
 
 

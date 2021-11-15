@@ -11,3 +11,5 @@ Por exemplo:
 - Seleção Aluno. Procurar no [Site da SEDU](https://sedu.es.gov.br/).
 
 Caso mesmo assim não consiga atendimento, você pode fazer uma manifestação na [Ouvidoria do Estado](https://sistema.ouvidoria.es.gov.br/publico/Manifestacao/RegistrarManifestacaoBs.aspx).
+
+[CLIQUE AQUI](../_arquivos/ServicosEspecificos.pdf) Para obter o arquivo com essas instruções.

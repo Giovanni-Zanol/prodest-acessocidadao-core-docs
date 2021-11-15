@@ -1,4 +1,4 @@
-# Senhas
+# Sobre Senhas
 Quando criar uma conta no Acesso Cidadão será solicitado que você crie uma senha. A senha é um dos mecanismos que garantem a segurança dos seus dados. 
 Sendo assim é preciso que você crie uma senha **forte**, **segura** e que apenas você conheça.  
 
@@ -70,3 +70,8 @@ Isso é para garantir que você não cometeu nenhum erro na hora de digitar a no
 
 Outros mecanismos de segurança são as verificações de conta. Você pode saber mais a respeito das
 varificações [neste post](https://docs.acessocidadao.es.gov.br/Duvidas/VerificacaoConta.html)  
+
+&nbsp;  
+&nbsp;  
+
+[CLIQUE AQUI](../_arquivos/DuvidasSenhas.pdf) Para obter o arquivo com essas instruções.
